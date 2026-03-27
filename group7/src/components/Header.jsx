@@ -7,7 +7,7 @@ function Header() {
       </div>
 
       <div className="user">
-        <span>Lloyd Calamba</span>
+        <span>Carmen Municipal College</span>
       </div>
     </header>
   );

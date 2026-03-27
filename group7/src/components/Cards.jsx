@@ -2,18 +2,23 @@ function Cards() {
   return (
     <div className="cards">
       <div className="card">
-        <p className="label">Total Users</p>
-        <h3>1,240</h3>
+        <p>Total Users</p>
+        <h2>1,240</h2>
       </div>
 
       <div className="card">
-        <p className="label">Revenue</p>
-        <h3>$8,320</h3>
+        <p>Sales</p>
+        <h2>$5,320</h2>
       </div>
 
       <div className="card">
-        <p className="label">Active Sessions</p>
-        <h3>312</h3>
+        <p>Revenue</p>
+        <h2>$12,400</h2>
+      </div>
+
+      <div className="card">
+        <p>Performance</p>
+        <h2>87%</h2>
       </div>
     </div>
   );
