@@ -32,6 +32,13 @@ body {
   font-weight: 600;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
+.header-content { display: flex; justify-content: space-between; align-items: center; }
+.title { margin: 0; font-size: 22px; }
+.subtitle { font-size: 14px; color: #94a3b8; }
+.school { font-size: 13px; color: #64748b; }
+.user-box { background: #1e293b; padding: 8px 14px; border-radius: 8px; font-size: 14px; }
+
+
 
 /* ===== SIDEBAR ===== */
 .sidebar {
